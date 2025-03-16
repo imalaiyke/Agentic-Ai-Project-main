@@ -8,10 +8,10 @@ sdk_version: 1.42.0
 app_file: app.py
 pinned: false
 license: apache-2.0
-short_description: Refined langgraphAgenticAI
+short_description: langgraphAgenticAI
 ---
 
-### End To End Agentic AI Projects
+### End To End Agentic AI Project
 
 The project is in development stage
 
